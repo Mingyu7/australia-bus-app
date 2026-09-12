@@ -32,6 +32,8 @@ temp/
 .env
 .env.*
 !.env.example
+**/application.properties
+!**/application.properties.example
 *.pem
 *.p12
 *.jks
